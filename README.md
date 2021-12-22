@@ -1,6 +1,6 @@
-#App-Ionic
+# App-Ionic
 
-#Platform
+# Platform
 
 Web, Mobile, Multi-Platform, Mobile First approach
 
