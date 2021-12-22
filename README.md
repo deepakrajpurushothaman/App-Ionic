@@ -1,4 +1,8 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+#App-Ionic
+
+#Platform
+
+Web, Mobile, Multi-Platform, Mobile First approach
 
 ## How to use this template
 
